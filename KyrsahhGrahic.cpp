@@ -1,10 +1,8 @@
-﻿#include "SDL.h" // Windows
-#include "SDL_ttf.h" // Windows
-
-
+﻿#include "SDL.h" 
+#include "SDL_ttf.h" 
 
 #include <iostream>
-#include <time.h> // Random seed
+#include <time.h> // Случайные числа 
 #include <vector>
 #include <sstream>
 
